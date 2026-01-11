@@ -1,11 +1,9 @@
-# Jacob Blemaster 👨‍💻
+# Sleestk 👨‍💻
 
 **Computer Science Student** @ Arizona State University (Barrett, The Honors College) | Graduating 2027  
-**Intern** @ Coinbase | **Blockchain Ambassador** @ Blockchain at ASU
+**Intern** @ Coinbase | **Blockchain Ambassador** @ Blockchain Club at ASU
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacob-blemaster/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/j-ble)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:BlemasterJacob@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Sleestk)
 
 ---
 
@@ -66,25 +64,24 @@ Blockchain accountability platform that stakes ETH and verifies daily GitHub com
 ---
 
 ### ⚡ Mastering Ethereum
-**June 2025 - Present** | [GitHub](https://github.com/j-ble/MasteringEthereum)
+**June 2025 - Present** | [GitHub](https://github.com/Sleestk/MasteringEthereum)
 
 Developing secure, production-grade Ethereum smart contracts with comprehensive testing.
 
 - 🧪 100% test coverage using Foundry
-- 🔍 Advanced debugging with Foundry tools (`--mt`, `-vvvv`)
+- 🔍 Debugging with Foundry tools (`--mt`, `-vvvv`)
 - 🛡️ Security testing with cheat codes (`vm.prank`)
-- 📝 Implementing `SimpleStorage.sol` and `Faucet.sol`
 
 **Tech:** Solidity, Foundry, Smart Contract Security
 
 ---
 
 ### 💎 XRP Ledger Development
-**June 2024** | [GitHub](https://github.com/j-ble/Coding-on-the-XRPL-Ledger)
+**June 2024** | [GitHub](https://github.com/Sleestk/Coding-on-the-XRPL-Ledger)
 
 Built and deployed transactions and NFTs on the XRP Ledger.
 
-- 🔐 Secure wallet creation and client configuration
+- 🔐 Wallet creation and client configuration
 - 💸 Successful transaction execution on XRPL
 - 🎨 NFT minting and management
 - 📚 Explored XRPL SDK capabilities
@@ -172,15 +169,6 @@ I'm interested in working on:
 ## 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-<div align="center">
-
-### 📫 Get In Touch
-
-**LinkedIn:** [jacob-blemaster](https://linkedin.com/in/jacob-blemaster/)  
-**GitHub:** [@j-ble](https://github.com/j-ble)
 
 ---
 
